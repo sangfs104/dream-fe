@@ -7,11 +7,16 @@
   font-weight: normal;
 }
 
+body {
+  padding: 0 100px;
+}
+
 /* Thông báo đầu trang */
 .top-notice {
   justify-content: flex-start;
   font-size: 16px;
   padding: 10px 20px;
+  margin-left: 20px;
 }
 
 .top-notice p {
